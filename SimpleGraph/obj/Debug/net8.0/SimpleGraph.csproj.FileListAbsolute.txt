@@ -1,0 +1,14 @@
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\bin\Debug\net8.0\SimpleGraph.deps.json
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\bin\Debug\net8.0\SimpleGraph.dll
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\bin\Debug\net8.0\SimpleGraph.pdb
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\obj\Debug\net8.0\SimpleGraph.csproj.AssemblyReference.cache
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\obj\Debug\net8.0\Avalonia\resources
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\obj\Debug\net8.0\SimpleGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\obj\Debug\net8.0\SimpleGraph.AssemblyInfoInputs.cache
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\obj\Debug\net8.0\SimpleGraph.AssemblyInfo.cs
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\obj\Debug\net8.0\SimpleGraph.csproj.CoreCompileInputs.cache
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\obj\Debug\net8.0\Avalonia\SimpleGraph.dll
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\obj\Debug\net8.0\Avalonia\SimpleGraph.pdb
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\obj\Debug\net8.0\refint\Avalonia\SimpleGraph.dll
+C:\Learning\SimpleGraph\SimpleGraph\SimpleGraph\obj\Debug\net8.0\ref\SimpleGraph.dll

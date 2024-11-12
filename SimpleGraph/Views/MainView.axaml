@@ -1,0 +1,43 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:SimpleGraph.ViewModels"
+			 xmlns:local="clr-namespace:SimpleGraph;assembly=SimpleGraph"
+			 xmlns:lvc="using:LiveChartsCore.SkiaSharpView.Avalonia"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="SimpleGraph.Views.MainView"
+             x:DataType="vm:MainViewModel">
+  <Design.DataContext>
+    <!-- This only sets the DataContext for the previewer in an IDE,
+         to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
+    <vm:MainViewModel/>
+  </Design.DataContext>
+
+	<Grid ColumnDefinitions="*, 3*" Margin="10,0,0,0">
+		<StackPanel Grid.Column="0">
+			<Label Content="Enter ticker"/>
+			<TextBox x:Name="tickerTextBox" Watermark="BNBBTC" Text="{Binding TickerName}"/>
+			<Label Content="Enter number of ticks"/>
+			<TextBox x:Name="tickNumberTextBox" Text="{Binding TickNumber}"/>
+			
+			<ToggleButton x:Name="connectButton" Content="Connect"
+						  IsCheckedChanged="ConnectButton_IsCheckedChanged">
+				<ToggleButton.Styles>
+					<Style Selector="ToggleButton:checked">
+						<Setter Property="Command" Value="{Binding DrawGraphCommand}"/>
+					</Style>
+					<Style Selector="ToggleButton:unchecked">
+						<Setter Property="Command" Value="{Binding StopDrawingCommand}"/>
+					</Style>
+				</ToggleButton.Styles>
+			</ToggleButton>
+		</StackPanel>
+		
+		<lvc:CartesianChart Grid.Column="1" Series="{Binding Series}"
+							SyncContext="{Binding Sync}"
+							Title="{Binding Title}" LegendPosition="Right"
+							LegendTextPaint="{Binding LegendTextPaint}"
+							XAxes="{Binding XAxes}" YAxes="{Binding YAxes}"/>
+	</Grid>
+</UserControl>

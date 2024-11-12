@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning\\SimpleGraph\\SimpleGraph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93D6B4E8-B861-4122-B75B-2752B1ED3915}|SimpleGraph\\SimpleGraph.csproj|c:\\learning\\simplegraph\\simplegraph\\simplegraph\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D6B4E8-B861-4122-B75B-2752B1ED3915}|SimpleGraph\\SimpleGraph.csproj|solutionrelative:simplegraph\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D6B4E8-B861-4122-B75B-2752B1ED3915}|SimpleGraph\\SimpleGraph.csproj|c:\\learning\\simplegraph\\simplegraph\\simplegraph\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{93D6B4E8-B861-4122-B75B-2752B1ED3915}|SimpleGraph\\SimpleGraph.csproj|solutionrelative:simplegraph\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D6B4E8-B861-4122-B75B-2752B1ED3915}|SimpleGraph\\SimpleGraph.csproj|c:\\learning\\simplegraph\\simplegraph\\simplegraph\\viewmodels\\websocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D6B4E8-B861-4122-B75B-2752B1ED3915}|SimpleGraph\\SimpleGraph.csproj|solutionrelative:simplegraph\\viewmodels\\websocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D6B4E8-B861-4122-B75B-2752B1ED3915}|SimpleGraph\\SimpleGraph.csproj|c:\\learning\\simplegraph\\simplegraph\\simplegraph\\views\\mainview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D6B4E8-B861-4122-B75B-2752B1ED3915}|SimpleGraph\\SimpleGraph.csproj|solutionrelative:simplegraph\\views\\mainview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D6B4E8-B861-4122-B75B-2752B1ED3915}|SimpleGraph\\SimpleGraph.csproj|c:\\learning\\simplegraph\\simplegraph\\simplegraph\\viewmodels\\ticker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D6B4E8-B861-4122-B75B-2752B1ED3915}|SimpleGraph\\SimpleGraph.csproj|solutionrelative:simplegraph\\viewmodels\\ticker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticker.cs",
+              "DocumentMoniker": "C:\\Learning\\SimpleGraph\\SimpleGraph\\SimpleGraph\\ViewModels\\Ticker.cs",
+              "RelativeDocumentMoniker": "SimpleGraph\\ViewModels\\Ticker.cs",
+              "ToolTip": "C:\\Learning\\SimpleGraph\\SimpleGraph\\SimpleGraph\\ViewModels\\Ticker.cs",
+              "RelativeToolTip": "SimpleGraph\\ViewModels\\Ticker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:54:45.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebSocketClient.cs",
+              "DocumentMoniker": "C:\\Learning\\SimpleGraph\\SimpleGraph\\SimpleGraph\\ViewModels\\WebSocketClient.cs",
+              "RelativeDocumentMoniker": "SimpleGraph\\ViewModels\\WebSocketClient.cs",
+              "ToolTip": "C:\\Learning\\SimpleGraph\\SimpleGraph\\SimpleGraph\\ViewModels\\WebSocketClient.cs",
+              "RelativeToolTip": "SimpleGraph\\ViewModels\\WebSocketClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T01:37:08.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainView.axaml.cs",
+              "DocumentMoniker": "C:\\Learning\\SimpleGraph\\SimpleGraph\\SimpleGraph\\Views\\MainView.axaml.cs",
+              "RelativeDocumentMoniker": "SimpleGraph\\Views\\MainView.axaml.cs",
+              "ToolTip": "C:\\Learning\\SimpleGraph\\SimpleGraph\\SimpleGraph\\Views\\MainView.axaml.cs",
+              "RelativeToolTip": "SimpleGraph\\Views\\MainView.axaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:47:06.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainView.axaml",
+              "DocumentMoniker": "C:\\Learning\\SimpleGraph\\SimpleGraph\\SimpleGraph\\Views\\MainView.axaml",
+              "RelativeDocumentMoniker": "SimpleGraph\\Views\\MainView.axaml",
+              "ToolTip": "C:\\Learning\\SimpleGraph\\SimpleGraph\\SimpleGraph\\Views\\MainView.axaml",
+              "RelativeToolTip": "SimpleGraph\\Views\\MainView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T13:46:58.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Learning\\SimpleGraph\\SimpleGraph\\SimpleGraph\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "SimpleGraph\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Learning\\SimpleGraph\\SimpleGraph\\SimpleGraph\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "SimpleGraph\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAmwIoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:45:20.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
